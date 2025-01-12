@@ -3,7 +3,7 @@
  int main(){
     int n;
     printf("enter number :");
-    scanf("%d \n",n);
+    scanf("%d \n",&n);
      
      int fact =1;
     for (int i = 1; i<=n; i++)// for factorial we cant use i =0
