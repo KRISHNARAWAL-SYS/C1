@@ -23,5 +23,5 @@
 
 void _square(int *n){
     *n=(*n)*(*n);
-    printf("square = ")
+    printf("square =%d\n",*n);
 }
